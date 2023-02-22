@@ -1,11 +1,5 @@
 <?php
 
-if($_SERVER['SERVER_NAME'] == '192.168.17.23') {
-
-    header("Location: http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion");
-
-}
-
 class Crypt {
 
     function owl128_encode($value) {
