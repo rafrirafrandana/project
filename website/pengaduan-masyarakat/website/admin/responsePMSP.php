@@ -302,7 +302,7 @@
                     </div>
                 </div>
                 <div class="a-frame">
-                    <button class="a-frame-button" onclick="window.print();">Unduh</button>
+                    <button class="a-frame-button" onclick="window.open('download-response','_blank')">Unduh</button>
                     <table style="background-color: #fff; box-shadow: 10px 15px 0px #222; width: 100%; border: 1px solid #222; border-radius: 10px;">
                         <tr>
                             <th style="background-color: #edf4f0; color: #222; font-family: monospace; font-size: 18px; width: 15%; border: 1px solid #222; border-radius: 10px; padding: 10px;">Tanggal</th>
